@@ -1,0 +1,19 @@
+html {
+  background-color: #c7d8d9;
+  height: 100%;
+  width: 100%;
+  margin: 5%;
+  padding-top: 25x ;
+}
+.me {
+    border-radius: 5%;
+}
+  
+header {
+  text-align: center;
+}
+h1 {
+  background-color: #91b8c1;
+  font-family: cursive;
+  color: white;
+}
